@@ -1,0 +1,16 @@
+com\electroworld\electroworldcontroller.class
+com\electroworld\UserModel\UserDAOImpl.class
+com\electroworld\UserModel\UserDAO.class
+com\electroworld\UserModel\User.class
+com\electroworld\UserRoleModel\UserRoleService.class
+com\electroworld\ProductModel\ProductDAOImpl.class
+com\electroworld\ProductModel\ProductDAO.class
+com\electroworld\UserModel\UserServiceImpl.class
+com\electroworld\UserRoleModel\UserRoleDAOImpl.class
+com\electroworld\UserRoleModel\UserRole.class
+com\electroworld\ProductModel\ProductServiceImpl.class
+com\electroworld\ProductModel\ProductService.class
+com\electroworld\UserRoleModel\UserRoleDAO.class
+com\electroworld\UserModel\UserService.class
+com\electroworld\ProductModel\Product.class
+com\electroworld\UserRoleModel\UserRoleServiceImpl.class
